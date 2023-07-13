@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Taxiora NFC Tag Scanner</string>
+    <string name="taxiora_nfc_tag_scanner">Taxiora NFC Tag Scanner</string>
+    <string name="ar">Ar</string>
+    <string name="fr">Fr</string>
+    <string name="token">Token</string>
+    <string name="card">Card</string>
+    <string name="tag_type">Tag Type :</string>
+    <string name="fr_or_ar">Fr or Ar :</string>
+    <string name="tag">Tag :</string>
+    <string name="no_tag_detected">No NFC tag detected.</string>
+    <string name="tag_does_not_support_isodep">NFC tag does not support IsoDep.</string>
+</resources>
